@@ -13,6 +13,10 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  <repository>
+    <id>admin</id>
+    <name>realese</name>
+    <url>http://localhost:8081/repository/realese/</url>
 <snapshotRepository>
 <id>admin</id>
 <name>snapshot</name>
